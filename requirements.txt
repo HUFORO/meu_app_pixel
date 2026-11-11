@@ -1,0 +1,3 @@
+streamlit
+pillow
+duckduckgo_search
